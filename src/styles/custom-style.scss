@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+.welcome {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  h1,
+  h2 {
+    color: darkcyan;
+    text-shadow: 2px 2px cyan;
+    text-align: center;
+  }
+}
